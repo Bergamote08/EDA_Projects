@@ -3,21 +3,13 @@
 The Goal of this project is to understand what factors affect the popularity or sales of a video game. But we are taking advantage of this opportunity to analyze the video game market globally.
 
 We are analyzing at a "macro" level, and also by genre, by platforms trying to answer some of these questions : 
-
 Which publisher has released the most games on Steam?
-
 What are the best rated games?
-
 Are there years with more releases? Were there more or fewer game releases during the Covid, for example?
-
 What are the most represented languages?
-
 Are there many games prohibited for children under 16/18?
-
 What are the most represented genres?
-
 What are the most lucrative genres?
-
 Are most games available on Windows/Mac/Linux instead?
 
 ### Vizualisation
