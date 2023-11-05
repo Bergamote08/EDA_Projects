@@ -13,7 +13,8 @@ We are analyzing at a "macro" level, and also by genre, by platforms trying to a
 - Are most games available on Windows/Mac/Linux instead?
 
 ### Visualization
-You can check the dashoboard here to access some of the visualization [Dashboard]([https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7835003736843736/2947564936650603/6792544750977775/latest.html](https://community.cloud.databricks.com/?o=7835003736843736#notebook/2947564936650603/dashboard/2462397549342798/present))
+You can check the dashoboard here to access some of the visualization [Dashboard]([https://community.cloud.databricks.com/?o=7835003736843736#notebook/2947564936650603/dashboard/2462397549342798/present])
+
 
 ### Installation
 
