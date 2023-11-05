@@ -20,3 +20,7 @@ You can check the dashoboard here to access some of the visualization [Dashboard
 Once you have the prerequisites, you can run the Ipython Notebook on [Databricks](https://community.cloud.databricks.com/login.html)
 
 The notebook is also available here [Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7835003736843736/2947564936650603/6792544750977775/latest.html)
+
+
+### Author
+This notebook was created by Charlotte ALLEN
